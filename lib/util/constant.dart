@@ -29,3 +29,5 @@ const double FONT_MIDDLE = 16.0;
 const double FONT_LARGE = 20.0;
 const double FONT_XLARGE = 24.0;
 const double FONT_XXLARGE = 30.0;
+
+const String PREFS_INTRODUCTION = "prefs_introduction";
